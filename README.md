@@ -1,1 +1,2 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72A&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Carlos+Vel%C3%A1squez%2C++%F0%9F%92%BBSoftware+Development+Student.++%F0%9F%9A%80+Welcome+to+my+profile." alt="Typing SVG" /></a>
+**<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF72A&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Carlos+Vel%C3%A1squez%2C++%F0%9F%92%BBSoftware+Development+Student.++%F0%9F%9A%80+Welcome+to+my+profile." alt="Typing SVG" /></a>
+**
