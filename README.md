@@ -73,7 +73,6 @@ Hola, soy **Carlos Mario Velásquez**, estudiante apasionado por el **Desarrollo
 - 🔗 [**Sistema de Devoluciones**](https://github.com/tu-usuario/sistema-devoluciones) — Registro de equipos e insumos con historial y stock.
 - 🔗 [**App de Préstamos de Dinero**](https://github.com/tu-usuario/app-prestamos) — App con cálculo de intereses y generación de facturas.
 
-> _Puedes agregar más proyectos o cambiar los enlaces según los que tengas en GitHub._
 
 ---
 
