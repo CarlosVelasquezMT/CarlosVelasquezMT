@@ -1,3 +1,6 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UNSW;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
+**<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/demo/?color=1DF72A&lines=%F0%9F%91%8B+Hello%2C+I'm+Carlos+Vel%C3%A1squez%2C++%F0%9F%92%BBSoftware+Development+Student.++%F0%9F%9A%80+Welcome+to+my+profile.">
 </p>
+
+
+
