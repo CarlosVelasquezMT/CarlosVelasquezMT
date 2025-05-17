@@ -1,1 +1,2 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=300&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Carlos+Vel%C3%A1squez%2C+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=300&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=%F0%9F%92%BBI'm+a+Software+Development+Student." alt="Typing SVG" /></a>
