@@ -1,4 +1,3 @@
 <p align="center">
-<img src="https://readme-Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=800&height=100&lines=Hola%2C+soy+Carlos+Mario+Vel%C3%A1squez%2C;Estudiante+de+Desarrollo+de+Software.)
->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UNSW;I'+am+a+Software+QA+Engineer+at+QAD;Welcome+to+my+profile+!">
 </p>
