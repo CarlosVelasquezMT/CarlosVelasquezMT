@@ -71,7 +71,7 @@ Hola, soy **Carlos Mario Velásquez**, estudiante apasionado por el **Desarrollo
 
 - 🔗 [**Gestor de Categorías con PHP & MySQL**](https://github.com/tu-usuario/gestor-categorias) — CRUD completo con DataTables y validación.
 - 🔗 [**Sistema de Devoluciones**](https://github.com/tu-usuario/sistema-devoluciones) — Registro de equipos e insumos con historial y stock.
-- 🔗 [**App de Préstamos de Dinero**](https://github.com/tu-usuario/app-prestamos) — App con cálculo de intereses y generación de facturas.
+- 🔗 [**App de Licorera**](https://v0-new-project-wsgqmlmkd4b.vercel.app/) — App para licoreras.
 
 
 ---
